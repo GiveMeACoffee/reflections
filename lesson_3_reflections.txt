@@ -1,2 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
 当需要将修改内容与同事共享或协作时我想使用远程版本库，而不是将工作保存到本地。
+为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
